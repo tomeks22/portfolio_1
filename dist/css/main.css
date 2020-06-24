@@ -360,14 +360,4 @@ main .social-icons a {
 main .social-icons a:hover {
   color: #ff652f;
 }
-
-footer {
-  font-size: 1rem;
-  position: fixed;
-  bottom: 0.4rem;
-  right: 1rem;
-  text-align: right;
-  padding: 1rem;
-  color: #fff;
-}
 /*# sourceMappingURL=main.css.map */
